@@ -1,5 +1,4 @@
 <!-- Badges -->
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![GitHub stars](https://img.shields.io/github/stars/Rajnandini-Patil-30/WellTrack-Malnutrition-Detector?style=social)](https://github.com/Rajnandini-Patil-30/WellTrack-Malnutrition-Detector)
 [![GitHub Repo Size](https://img.shields.io/github/repo-size/Rajnandini-Patil-30/WellTrack-Malnutrition-Detector)](https://github.com/Rajnandini-Patil-30/WellTrack-Malnutrition-Detector)
 [![GitHub issues](https://img.shields.io/github/issues/Rajnandini-Patil-30/WellTrack-Malnutrition-Detector)](https://github.com/Rajnandini-Patil-30/WellTrack-Malnutrition-Detector/issues)
