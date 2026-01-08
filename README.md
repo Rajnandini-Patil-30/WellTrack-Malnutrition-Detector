@@ -29,6 +29,36 @@
 
 ---
 
+## 📸 Screenshots
+
+### 🎉 Welcome Screen
+
+<img width="737" height="416" alt="Welcome screen" src="https://github.com/user-attachments/assets/a39e20c5-804d-4b4b-acb7-98e11da19883" />
+
+
+*The application welcome page with project title and developer credits.*
+
+---
+
+### 📋 Data Table and Dashboard
+
+<img width="761" height="430" alt="Data Table and Dashboard" src="https://github.com/user-attachments/assets/a4858d12-7cda-486a-bfc0-2ad077ed0035" />
+
+
+*Main data table showing patient information and computed values.*
+
+---
+
+### 📊 Malnutrition Risk Pie Chart
+
+<img width="768" height="433" alt="Malnutrition Risk Pie Chart" src="https://github.com/user-attachments/assets/4a67d0f6-7a2d-480e-abec-19949386de22" />
+
+
+*Visual representation of malnutrition risk categories.*
+
+---
+
+
 ## 💻 Installation
 
 **Prerequisites**
